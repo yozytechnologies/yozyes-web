@@ -110,7 +110,14 @@ img {
   .imagemysize{
     width: 100%;
     max-width: 100%;
-    height: 500px;max-height: 500px;
+    margin-top:75px;
+    height: 400px;max-height: 400px;
+  }
+  .imagemysize1{
+    width: 100%;
+    margin-top:75px;
+    max-width: 100%;
+    height: 425px;max-height: 425px;
   }
 
 blockquote {
@@ -6410,7 +6417,8 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
     margin-bottom: 60px; }
   .breadcrumbs-wrap + .crumina-heading {
     margin-top: 20px; }
-
+   
+  
 .stunning-header--breadcrumbs-bottom-left .breadcrumbs-wrap {
   position: absolute;
   left: 0;
