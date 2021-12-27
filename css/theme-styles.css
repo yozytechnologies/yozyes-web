@@ -107,6 +107,11 @@ img {
   max-width: 100%;
   height: auto;
   display: inline-block; }
+  .imagemysize{
+    width: 100%;
+    max-width: 100%;
+    height: 500px;max-height: 500px;
+  }
 
 blockquote {
   -webkit-margin-before: 0;
