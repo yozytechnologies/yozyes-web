@@ -1,1 +1,0 @@
-# yozyes-web
