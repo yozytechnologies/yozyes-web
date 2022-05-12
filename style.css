@@ -358,6 +358,9 @@ h6 {
 .pr-220 {
   padding-right: 220px;
 }
+.mymargin{
+  margin-left: 8rem;
+}
 
 .offwrap {
   cursor: url(assets/images/close.png), auto;
@@ -2077,8 +2080,9 @@ blockquote cite:before {
 .blog-button.inner-blog a:after {
   content: "\f114";
   position: absolute;
-  /* font-family: flaticon; */
   font-family: 'Nanum Gothic', sans-serif;
+  font-family: 'flaticon';
+ 
   font-size: 15px;
   top: 1px;
   right: 0;
